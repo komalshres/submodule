@@ -1,1 +1,1 @@
-export const submodule = () => console.log("This is tester");
+export const submodule = () => console.log("Submodule");
